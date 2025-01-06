@@ -1,6 +1,5 @@
-/* eslint-disable no-undef */
-/** @type {import('tailwindcss').Config} */
-module.exports = {
+ /** @type {import('tailwindcss').Config} */
+export default {
   content: ["./src/**/*.{js,jsx}"],
   mode: "jit",
   theme: {
