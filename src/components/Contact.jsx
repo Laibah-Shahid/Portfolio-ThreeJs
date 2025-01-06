@@ -71,6 +71,7 @@ const Contact = () => {
   };
 
   return (
+    <div>
     <div
       className={`xl:mt-12 flex xl:flex-row flex-col-reverse gap-10 overflow-hidden`}
     >
@@ -135,6 +136,14 @@ const Contact = () => {
       >
         <EarthCanvas />
       </motion.div>
+
+     
+    </div>
+    <footer className="mb-[-20px] mt-11">
+    <p className="text-center text-gray-400 ">
+          &copy; {new Date().getFullYear()} Portfolio App. All rights reserved.
+        </p>
+        </footer>
     </div>
   );
 };
