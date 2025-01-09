@@ -334,7 +334,7 @@ import {
     {
       name: "Github Clone ",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A seamless and responsive clone of GitHub's homepage, featuring a clean layout and intuitive navigation for an optimal user experience.",
       tags: [
         {
           name: "nextjs",
@@ -355,7 +355,7 @@ import {
     {
       name: "Creative Nexus ",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A multi-page website designed with a focus on sleek, modern aesthetics, seamless functionality, and an exceptional user experience, ensuring easy navigation and interactive features.",
       tags: [
         {
           name: "nextjs",
@@ -376,7 +376,7 @@ import {
     {
       name: "Ecommerce",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A multi-page eCommerce website showcasing products with features like product pages, shopping cart, and order review for a smooth shopping experience.",
       tags: [
         {
           name: "html",
