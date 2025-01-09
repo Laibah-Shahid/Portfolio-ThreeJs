@@ -54,15 +54,15 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React Developer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "UI/UX Designer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Backend Developer",
       icon: creator,
     },
   ];
@@ -125,7 +125,7 @@ import {
   const experiences = [
     {
       title: "React.js Developer",
-      company_name: "Neuro Computational Lab25",
+      company_name: "Neuro Computational Lab",
       icon: ncl,
       iconBg: "#E6DEDD",
       date: "Aug 2024 - Oct 2024",
@@ -208,7 +208,7 @@ import {
     {
       name: "Zentry",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Zentry clone replicating an award-winning website with a focus on sleek design, seamless functionality, and user experience for performance and responsiveness.",
       tags: [
         {
           name: "react",
@@ -229,7 +229,7 @@ import {
     {
       name: "Patient Management",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Healthcare platform for patient registration, appointment scheduling, medical record management, and SMS notifications, ensuring efficient healthcare services.",
       tags: [
         {
           name: "nextjs",
@@ -250,7 +250,7 @@ import {
     {
       name: "Admin Dashboard",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "React Admin Dashboard application with light/dark modes, interactive charts, data tables, FAQ, forms, and calendar integration for streamlined admin management.",
       tags: [
         {
           name: "react",
@@ -271,7 +271,7 @@ import {
     {
       name: "Fizzi-Soda Site",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Fizzi, an engaging soda website with captivating animations and 3D models, offering an immersive and interactive experience.",
       tags: [
         {
           name: "nextjs",
@@ -292,7 +292,7 @@ import {
     {
       name: "Portfolio",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A Next.js portfolio website with multiple pages, showcasing skills, projects, and a contact section for a comprehensive personal presentation.",
       tags: [
         {
           name: "nextjs",
@@ -313,7 +313,7 @@ import {
     {
       name: "Brainwave AI",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A website demonstrating the transformative capabilities of artificial intelligence through innovative features and applications.",
       tags: [
         {
           name: "reactjs",

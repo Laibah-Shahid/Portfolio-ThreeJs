@@ -25,10 +25,24 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import ncl from "./company/ncl.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import zentry from "./Zentry.webp";
+import fizzi from "./Fizzi.png";
+import ecommerce from "./Ecommerce.png";
+import portfolionext from "./portfolionextjs.png";
+import admin from "./adminDashboard.png";
+import nexus from "./CreativeNexus.png";
+import hospital from "./hospital management sys.png";
+import githubClone from "./githubclone.png";
+import portfolioreact from "./reactPorfolio.png";
+import brainwave from "./brainwaveai.png";
+import todoapp from "./todoapp.png";
+import matrix from "./matrix.png";
+
 
 export {
   logo,
@@ -55,8 +69,21 @@ export {
   meta,
   shopify,
   starbucks,
+  ncl,
   tesla,
   carrent,
   jobit,
   tripguide,
+  zentry,
+  ecommerce,
+  fizzi,
+  portfolionext,
+  admin,
+  nexus,
+  hospital,
+  githubClone,
+  portfolioreact,
+  brainwave,
+  todoapp, 
+  matrix,
 };
