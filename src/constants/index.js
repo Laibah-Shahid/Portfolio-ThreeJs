@@ -30,7 +30,9 @@ import {
     nexus,
     githubClone,
     brainwave,
-
+    atompoint,
+    klobbi,
+    
   } from "../assets";
   
   export const navLinks = [
@@ -50,11 +52,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Frontend Engineer",
       icon: web,
     },
     {
-      title: "React Developer",
+      title: "AI Engineer",
       icon: mobile,
     },
     {
@@ -62,7 +64,7 @@ import {
       icon: backend,
     },
     {
-      title: "Backend Developer",
+      title: "Backend Engineer",
       icon: creator,
     },
   ];
@@ -124,7 +126,31 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Frontend Engineer",
+      company_name: "Atompoint-Cloudnosys",
+      icon: atompoint,
+      iconBg: "#383E56",
+      date: "Dec 2025 - Present",
+      points: [
+        "Built and optimized responsive frontend features using React, TypeScript, and Tailwind CSS, improving rendering efficiency and contributing to a 20% increase in user engagement across key product flows.",
+        "Refactored and modernized legacy frontend components, enhancing maintainability and performance while preserving 95% functional and UI accuracy during feature updates.",
+        "Worked closely with product, design, and backend teams to deliver UI improvements, resolve production issues, and ensure scalable, user-centric interfaces across the Cloudnosys platform.",
+      ],
+    },
+    {
+      title: "Junior Web Developer",
+      company_name: "Klobbi Pvt Ltd",
+      icon: klobbi,
+      iconBg: "#E6DEDD",
+      date: "Jun 2025 - Oct 2025",
+      points: [
+        "Converted a React-based multipage template into a Laravel + Tailwind CSS architecture, improving scalability and maintainability while reducing page load time by 25%.",
+        "Managed dynamic product content through a custom CMS, ensuring smooth backend-frontend synchronization and maintaining 99% content accuracy.",
+        "Built responsive, interactive UI components for marketing platforms and contributed to AI-driven solution concepts, resulting in a 30% improvement in mobile responsiveness.",
+      ],
+    },
+    {
+      title: "Frontend Developer",
       company_name: "Neuro Computational Lab",
       icon: ncl,
       iconBg: "#E6DEDD",
@@ -136,32 +162,7 @@ import {
         " Optimized UI performance through efficient rendering and state management techniques resulting in a20% average increase in user engagement.",
       ],
     },
-    // {
-    //   title: "React Native Developer",
-    //   company_name: "Tesla",
-    //   icon: tesla,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Web Developer",
-    //   company_name: "Shopify",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+   
     // {
     //   title: "Full stack Developer",
     //   company_name: "Meta",

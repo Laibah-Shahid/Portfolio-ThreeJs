@@ -26,6 +26,8 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import ncl from "./company/ncl.png";
+import atompoint from "./company/atompoint.png";
+import klobbi from "./company/klobbi.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -71,6 +73,8 @@ export {
   starbucks,
   ncl,
   tesla,
+  atompoint,
+  klobbi,
   carrent,
   jobit,
   tripguide,
