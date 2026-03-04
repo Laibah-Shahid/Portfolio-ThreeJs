@@ -130,7 +130,7 @@ import {
       company_name: "Atompoint-Cloudnosys",
       icon: atompoint,
       iconBg: "#383E56",
-      date: "Dec 2025 - Present",
+      date: "Nov 2025 - Present",
       points: [
         "Built and optimized responsive frontend features using React, TypeScript, and Tailwind CSS, improving rendering efficiency and contributing to a 20% increase in user engagement across key product flows.",
         "Refactored and modernized legacy frontend components, enhancing maintainability and performance while preserving 95% functional and UI accuracy during feature updates.",
